@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wOYEbtSOJ6Xt8Rr0TXZIABFc1MAxpvpWr62fRqrQsbQ=",
+  "Source": "AttenDex.Api",
+  "BasePath": "_content/AttenDex.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
